@@ -5,8 +5,8 @@
 
 largura = float(input("qual a largura?: "))
 altura = float(input("qual a altura?: "))
-pareide = largura * altura
-litrosTintas = pareide / 4
+área = largura * altura
+Tinta = pareide / 2
 
-print(f"A area da pareide é {pareide} metros")
-print(f"A quantidade de tinta é {litrosTintas} litros")
+print(f"A area da pareide é {área} metros")
+print(f"A quantidade de tinta é {Tinta} litros")

@@ -4,4 +4,4 @@
 valor = float(input("qual o valor que você tem?: "))
 dolar = valor / 5.42
 
-print(f"O valor em real {valor} transformado em dolar é {dolar}")
+print(f"O valor em real {valor} transformado em dolar é {dolar:.2f}")
