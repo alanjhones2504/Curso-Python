@@ -35,7 +35,7 @@
 
 # comandos do print
 
-# o comando (end='') significa que não vai tr uma quebra de linha ex:
+# o comando (end='') significa que não vai ter uma quebra de linha ex:
 # print('digite uma mensagem', end='')
 # print('continuar na mesma linha')
 # \n quebra de linha 
